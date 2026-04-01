@@ -31,10 +31,10 @@
 
 | #  | Projeto               | Descrição                                                                 | Link |
 |----|----------------------|--------------------------------------------------------------------------|------|
-| 01 | calculator           | Calculadora interativa que realiza operações matemáticas com validação de divisão por zero | [Abrir](./calculator.py) |
-| 02 | dice_roll            | Simula o lançamento de dois dados com interação contínua do usuário      | [Abrir](./dice_roll.py) |
-| 03 | dice_roll_choice     | Permite escolher a quantidade de dados (1 a 6) e realizar múltiplos lançamentos com validação | [Abrir](./dice_roll_choice.py) |
-| 04 | rock_paper_scissors  | Jogo de pedra, papel e tesoura contra o computador com repetição e validação de entrada | [Abrir](./r_p_s_game.py) |
+| 01 | calculator           | Calculadora interativa que realiza operações matemáticas com validação de divisão por zero | [Abrir](./Calculadora) |
+| 02 | dice_roll            | Simula o lançamento de dois dados com interação contínua do usuário      | [Abrir](./Dice_Roll) |
+| 03 | dice_roll_choice     | Permite escolher a quantidade de dados (1 a 6) e realizar múltiplos lançamentos com validação | [Abrir](./Dice_Roll) |
+| 04 | rock_paper_scissors  | Jogo de pedra, papel e tesoura contra o computador com repetição e validação de entrada | [Abrir](./r_p_s) |
 
 <br>
 <br>
